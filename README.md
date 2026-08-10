@@ -1,4 +1,3 @@
-<img width="904" height="601" alt="architecture diagram" src="https://github.com/user-attachments/assets/4e8483e6-997f-4ad8-8d38-54aca908b684" />
 # Zero-Shot Learning Driven Security Orchestration and Automated Response
 
 ## Overview
