@@ -1,3 +1,4 @@
+<img width="904" height="601" alt="architecture diagram" src="https://github.com/user-attachments/assets/4e8483e6-997f-4ad8-8d38-54aca908b684" />
 # Zero-Shot Learning Driven Security Orchestration and Automated Response
 
 ## Overview
@@ -20,7 +21,8 @@ and denial-of-service attempts.
 
 ## System Architecture
 
-[Add architecture diagram here]
+<img width="904" height="601" alt="architecture diagram" src="https://github.com/user-attachments/assets/a76b95d5-474d-43a7-9578-9da2d071cce6" />
+
 
 ## Modules
 
